@@ -64,7 +64,7 @@ phishing_Website_Detection/
 
 Try the deployed application:
 
-[Open Phishing Website Detection App](https://phishing-website-detection-wndwdlz8r7gp6ckag6hcde.streamlit.app/)
+[Open Phishing Website Detection App](https://phishing-website-detection-wndwdlz8r7gp6ckag6hcde.streamlit.app)
 
 ## 5. Author & Copyright
 
