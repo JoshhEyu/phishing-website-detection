@@ -27,7 +27,7 @@ The final selected model is a tuned Random Forest Classifier.
 
 ## 3. Project Structure
 
-text
+```text
 phishing_Website_Detection/
 ├── app/
 │   └── app.py
@@ -59,7 +59,7 @@ phishing_Website_Detection/
 ├── .gitignore
 ├── requirements.txt
 └── README.md
-
+```
 ## 4. Live Demo
 
 Try the deployed application:
